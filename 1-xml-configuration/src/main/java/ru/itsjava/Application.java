@@ -2,7 +2,6 @@ package ru.itsjava;
 
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import ru.itsjava.services.NotebookServiceImpl;
 import ru.itsjava.services.ProgrammerService;
 
 public class Application {
