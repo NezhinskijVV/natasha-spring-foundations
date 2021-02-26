@@ -11,6 +11,8 @@
 
     <modules>
         <module>1-xml-configuration</module>
+        <module>2-javabased-configuration</module>
+        <module>3-annotationbased-configuration</module>
     </modules>
 
     <properties>
